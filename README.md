@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Lokhande 😎</h1>
 <!-- <h3 align="center">Computer Engeerning at College of Engineering, Pune. I love to make projects and to use skills I have learned. Coding I first heard in school time and got excited how its will be and then I first got to their are computer languages in 10th from friends started very little in 10th C++ but leaved due to studies then I got admission at COEP in Computer Engineering love to explore here about coding world.</h3> -->
 
--  I can really end beef then burry 'em 10 feet*
+-  Stinger than I was
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
