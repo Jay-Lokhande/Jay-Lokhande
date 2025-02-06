@@ -7,9 +7,10 @@ Jo bhi socha hai wohi karna hai tuze haan
   <br>
 
 chahe jo bhi ho jaye sapno ke liye ladte hai rehna  <br>
+<!---
 jab hoga tera kaam ki taareef, meetha bhi lagne lagega ye pasina  <br>
 
-jab hoga tera naam hi aakhir, dekhta rahega ye zamana  <br>
+jab hoga tera naam hi aakhir, dekhta rahega ye zamana  <br>-->
 
 
 <!-- <h3 align="left">Connect with me:</h3>
