@@ -2,6 +2,10 @@
 <!-- <h3 align="center">Computer Engeerning at College of Engineering, Pune. I love to make projects and to use skills I have learned. Coding I first heard in school time and got excited how its will be and then I first got to their are computer languages in 10th from friends started very little in 10th C++ but leaved due to studies then I got admission at COEP in Computer Engineering love to explore here about coding world.</h3> -->
 
 -  Stronger than I was
+Jo bhi socha hai wohi karna hai tuze haan
+chahe jo bhi ho jaye sapno ke liye ladte hai rehna
+jab hoga tera kaam ki taareef, meetha bhi lagne lagega ye pasina
+jab hoga tera naam hi aakhir, dekhta rahega ye zamana
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
