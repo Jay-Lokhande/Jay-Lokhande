@@ -25,9 +25,6 @@ jab hoga tera naam hi aakhir, dekhta rahega ye zamana  <br>-->
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-lokhande&show_icons=true&locale=en&layout=compact" alt="jay-lokhande" /></p>
 --> 
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Here’s a **next-level interactive GitHub README** using GitHub Flavored Markdown tricks, emojis, and embedded widgets to engage visitors. Includes "choose your own adventure" vibes:
 
 ```markdown
 # 🕹️ **Welcome to My GitHub Universe**  
