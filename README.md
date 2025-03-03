@@ -26,9 +26,20 @@ jab hoga tera naam hi aakhir, dekhta rahega ye zamana  <br>-->
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-lokhande&show_icons=true&locale=en&layout=compact" alt="jay-lokhande" /></p>
 --> 
 
+
+
+
+
+
+
+
+
+
+
+
 ```markdown
 # 🕹️ **Welcome to My GitHub Universe**  
-
+<!---
 [![Interactive Banner](https://img.shields.io/badge/CLICK_ME-%23FF0000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
 *(Yes, the banner is clickable. Go ahead, I dare you.)*
 
@@ -132,3 +143,4 @@ $ ./launch --motivation
 5. **Spotify Widget**: Use [this template](https://github.com/kittinan/spotify-github-profile)  
 
 **Pro Tip**: Add hidden jokes in badge hover text (like `"title"` attribute in shields.io URLs) for Easter eggs!
+-->
