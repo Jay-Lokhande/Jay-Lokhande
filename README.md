@@ -30,4 +30,4 @@ jab hoga tera naam hi aakhir, dekhta rahega ye zamana  <br>-->
 
 
 ```markdown
-# 🕹️ Welcome to My GitHub Laboratory   
+# 🕹️ Welcome to My GitHub LABoratory   
