@@ -29,6 +29,25 @@ jab hoga tera naam hi aakhir, dekhta rahega ye zamana  <br>-->
 
 
 
-```markdown
-# 🕹️ Welcome to My GitHub LABoratory   
-# I am not a coder. I am a thinker.
+
+---
+
+<p align="center">
+  <br><br>
+  <strong style="font-size: 24px;">
+🕹️ Welcome to My GitHub LABoratory    <br>
+    I am not a coder. I am a thinker.
+  </strong>
+  <br><br>
+  <!-- <em>
+    <!--Code can be written by anyone.<br>
+    Deciding <strong>what</strong> to build and <strong>why</strong> to build it<br>
+    takes a thinker.
+  </em>
+  <br><br>-->
+  — Jay
+  <br><br>
+</p>
+
+---
+
