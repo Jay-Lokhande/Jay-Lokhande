@@ -36,7 +36,7 @@ jab hoga tera naam hi aakhir, dekhta rahega ye zamana  <br>-->
   <br><br>
   <strong style="font-size: 24px;">
 🕹️ Welcome to My GitHub Laboratory    <br>
-    I am not a coder. I am a thinker.
+    <!--I am not a coder. I am a thinker.--->
   </strong>
   <br><br>
   <!-- <em>
